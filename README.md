@@ -25,3 +25,7 @@ With this tools, you can easily now what is the name of 1343th server. Oh wait, 
 var boxyname = new Boxyname();
 console.log(boxyname.get(1343)); // Display bx53f
 ```
+
+## Todo
+
+- Export the object as module for use with amazing NodeJS
