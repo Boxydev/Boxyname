@@ -1,6 +1,6 @@
 # Boxyname
 
-A little tool for convert decimal server name to hexadecimal server name.
+A little tool for convert decimal name to hexadecimal name.
 
 Example:
 We have one houndred server on pad 3 (10^3 = 1000 servers) :
